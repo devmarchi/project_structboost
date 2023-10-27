@@ -1,5 +1,5 @@
 
-![Logo do projeto](https://raw.githubusercontent.com/devmarchi/project_structboost/da7b3700f4f4e9d71e50515eaa26f64902905ca2/imgs/logo.svg)
+![Logo do projeto](https://raw.githubusercontent.com/devmarchi/project_structboost/a0b99592e80d1b2968278d08f524325b5250e39e/imgs/logo.svg)
 
 
 [Bem vindo](#bem-vindo-ao-projeto-structboost!) • [Versão](#versão) • [Updates](#updates) 
